@@ -25,6 +25,18 @@ const david = {
 
 ---
 
+### 🌐 Portfolio
+
+<div align="center">
+  
+  <a href="https://volcmen.github.io/">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=header&text=View%20Portfolio&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35" alt="Portfolio Banner" />
+  </a>
+  
+</div>
+
+---
+
 ### 🎮 GitHub Contributions Snake Game
 
 <div align="center">
